@@ -1,5 +1,5 @@
 # NDRO: Non-Dual Resonance Optimization
-
+[![DOI книги](https://zenodo.org/badge/DOI/10.5281/zenodo.21913550.svg)](https://doi.org/10.5281/zenodo.21913550)
 > Eliminating Mesa-Optimization Through Architectural Dissolution
 > of the Subject–Object Boundary
 
